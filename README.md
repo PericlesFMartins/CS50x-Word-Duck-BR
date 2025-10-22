@@ -6,7 +6,7 @@
 
 Word Duck BR é um jogo educativo desenvolvido em Scratch como projeto final para o curso CS50x de Harvard. O objetivo é ensinar palavras em inglês para crianças de forma lúdica e interativa, reforçando a mensagem principal: **"Não se preocupe em cometer erros, o objetivo é aprender se divertindo!"**.
 
-- **Jogue Word Duck BR no Scratch:** [https://scratch.mit.edu/projects/1178313120/](https://scratch.mit.edu/projects/1178313120/)
+**Jogue Word Duck BR no Scratch:** [https://scratch.mit.edu/projects/1178313120/](https://scratch.mit.edu/projects/1178313120/)
 
 ## 💻 Sobre o Projeto
 
@@ -35,6 +35,9 @@ Assista ao vídeo abaixo para ver o Word Duck BR em funcionamento, com a partici
 ![tela_acerto](https://i.imgur.com/YvzUDJu.png)
 
 ## 🎮 Como Jogar
+
+ Jogue Word Duck BR no Scratch: 
+👉 [https://scratch.mit.edu/projects/1178313120/](https://scratch.mit.edu/projects/1178313120/)
 
 1.  Inicie o jogo e aguarde o pato-guia chegar até a porta para dar as boas-vindas.
 2.  Observe a imagem que aparece no centro da tela.
